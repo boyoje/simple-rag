@@ -1,0 +1,16 @@
+# Core Python/Data Libraries
+pandas
+SQLAlchemy
+ipykernel
+python-dotenv
+
+# LLM & Agent Framework
+google-genai
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+Chroma
+
+# UI/App Libraries (Install later for Day 6, but good to include)
+streamlit
